@@ -1,12 +1,13 @@
 # Oblivious
 
-Oblivis is a **cross-platform** Python tool for secure file deletion and basic system privacy auditing on Windows and Arch Linux. It features:
+Oblivis is a **cross-platform** Python tool for secure file deletion and basic system privacy auditing on Windows and Arch Linux. This tool is meant to be run on fresh installs of Windows 10/11 or a fresh Arch distro install. 
+    It features:
 
 - **Secure Wipe:** Permanently overwrite files/directories with random data (multiple passes) before deletion.
 
 - **Journal Scan (Stub):** Example logic for scanning NTFS or ext4 journals for remnants of deleted files.
 
-- **Quick Audit:** A simple privacy/security check (e.g. firewall status, telemetry) on fresh Windows or Arch installs.
+- **Quick Audit:** A simple, quick and dirty privacy/security check (e.g. firewall status, telemetry).
 
 
 
@@ -20,3 +21,13 @@ Oblivis is a **cross-platform** Python tool for secure file deletion and basic s
 ## Installation
     Download and run 
         ~should be put in the documents folder or downloads folder for ease of use~
+
+
+
+
+
+
+
+
+
+Enjoy :)
