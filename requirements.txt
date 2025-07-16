@@ -1,0 +1,1 @@
+windows-curses  # Only required for Windows; curses support
